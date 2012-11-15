@@ -28,7 +28,6 @@ Veewee::Session.declare({
     "base.sh",
     "ruby.sh",
     "chef.sh",
-    "puppet.sh",
     "vagrant.sh",
     "virtualbox.sh",
     #"kvm.sh",
