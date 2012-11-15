@@ -27,7 +27,7 @@ Veewee::Session.declare({
   :postinstall_files => [
     "base.sh",
     "ruby.sh",
-    "chef.sh",
+    "chef-solo.sh",
     "vagrant.sh",
     "virtualbox.sh",
     #"kvm.sh",
